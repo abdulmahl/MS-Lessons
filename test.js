@@ -29,4 +29,4 @@ else {
 // the condtion with an else statement.
 const status3 = 200;
 const message = (status3 === 204) ? "Ok!" : "Error!";
-console.log(message);
+console.log(message); 
