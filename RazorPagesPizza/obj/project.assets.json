@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/m.abdulmahlangu/Documents/RazorPagesPizza/RazorPagesPizza.csproj",
+      "projectUniqueName": "/Users/m.abdulmahlangu/Documents/MS Lessons/RazorPagesPizza/RazorPagesPizza.csproj",
       "projectName": "RazorPagesPizza",
-      "projectPath": "/Users/m.abdulmahlangu/Documents/RazorPagesPizza/RazorPagesPizza.csproj",
+      "projectPath": "/Users/m.abdulmahlangu/Documents/MS Lessons/RazorPagesPizza/RazorPagesPizza.csproj",
       "packagesPath": "/Users/m.abdulmahlangu/.nuget/packages/",
-      "outputPath": "/Users/m.abdulmahlangu/Documents/RazorPagesPizza/obj/",
+      "outputPath": "/Users/m.abdulmahlangu/Documents/MS Lessons/RazorPagesPizza/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/m.abdulmahlangu/.nuget/NuGet/NuGet.Config"
