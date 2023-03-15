@@ -31,6 +31,11 @@ let iceCreamFlavorsObject = [
     { name: "Mint Chip", type: "Chocolate"}
     ];
 
+iceCreamFlavorsObject.map(flavor => {
+    flavor.price = "$1.00";
+    return price;
+})
+    
 iceCreamFlavorsObject.filter(flavor => flavor.type === "Chocolate") 
 // returns all the flavors with 'Chcolate'.
 // [{ name: "Chocolate", type: "Chocolate" }, 
@@ -43,3 +48,22 @@ iceCreamFlavorsObject.filter(flavor => flavor.type === "Nuts")
 
 iceCreamFlavorsObject.filter(flavor => flavor.type !== "Nuts");
 // returns everything except for 'Pistachio'.
+
+let sales = 
+    [{
+        date: "2023-05-01",
+        amount: 2
+    },
+    {
+        date: "2023-05-01",
+        amount: 4
+    },
+    {
+        date: "2023-05-01",
+        amount: 6
+    }];
+
+let sum = 0;
+for (let i = 0; i < sales.length; i++) {
+    sum += sales[i].amount;    
+}
