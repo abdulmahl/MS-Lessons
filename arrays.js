@@ -31,4 +31,15 @@ let iceCreamFlavorsObject = [
     { name: "Mint Chip", type: "Chocolate"}
     ];
 
-iceCreamFlavorsObject.filter(flavor => flavor.type === "Nuts") // returns 'Pistachio'.
+iceCreamFlavorsObject.filter(flavor => flavor.type === "Chocolate") 
+// returns all the flavors with 'Chcolate'.
+// [{ name: "Chocolate", type: "Chocolate" }, 
+// { name: "Neapolitan", type: "Chocolate"}, 
+// { name: "Mint Chip", type: "Chocolate"}]
+
+iceCreamFlavorsObject.filter(flavor => flavor.type === "Nuts")
+// returns all the flavors with 'Nuts'.
+//[{Name: "Pistachio", type: "Nuts"}] (true)
+
+iceCreamFlavorsObject.filter(flavor => flavor.type !== "Nuts");
+// returns everything except for 'Pistachio'.
