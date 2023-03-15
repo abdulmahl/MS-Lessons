@@ -67,3 +67,5 @@ let sum = 0;
 for (let i = 0; i < sales.length; i++) {
     sum += sales[i].amount;    
 }
+
+sales.reduce((acc, curr) => acc + curr.amount, 0);
