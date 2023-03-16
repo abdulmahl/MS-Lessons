@@ -1,0 +1,7 @@
+/Users/m.abdulmahlangu/Documents/MS Lessons/AlpineSkiHouse/AlpineSkiHouse/obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse
+/Users/m.abdulmahlangu/Documents/MS Lessons/AlpineSkiHouse/AlpineSkiHouse/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/m.abdulmahlangu/Documents/MS Lessons/AlpineSkiHouse/AlpineSkiHouse/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/m.abdulmahlangu/Documents/MS Lessons/AlpineSkiHouse/AlpineSkiHouse/obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse.dll
+/Users/m.abdulmahlangu/Documents/MS Lessons/AlpineSkiHouse/AlpineSkiHouse/obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse.deps.json
+/Users/m.abdulmahlangu/Documents/MS Lessons/AlpineSkiHouse/AlpineSkiHouse/obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse.runtimeconfig.json
+/Users/m.abdulmahlangu/Documents/MS Lessons/AlpineSkiHouse/AlpineSkiHouse/obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse.pdb
